@@ -15,7 +15,9 @@
 ## Actividad 3
 - p05-promedio-de-calificaciones
 - p06-operaciones-matematicas
+- p06b-operadores-de-asignacion
 - p07-funciones-trigonometricas
+- p07b- funciones-del-modulo-math
 - p08-dividir-cifrasor
 
 
