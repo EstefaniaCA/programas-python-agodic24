@@ -18,6 +18,7 @@
 - p06b-operadores-de-asignacion
 - p07-funciones-trigonometricas
 - p07b- funciones-del-modulo-math
-- p08-dividir-cifrasor
+- p08-dividir-cifras
+
 
 
