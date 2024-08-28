@@ -9,5 +9,4 @@ celsius = float(input("Ingresa la temperatura en grados Celsius: "))
 
 resultado = convertir_a_fahrenheit(celsius)
 
-
 print(f"La temperatura en grados Fahrenheit es: {resultado:.2f}")
