@@ -20,5 +20,12 @@
 - p07b- funciones-del-modulo-math
 - p08-dividir-cifras
 
+## Actividad 4
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p17-convertir-temperaturas-v2
+- p18-paga-trabajador-v2
+
 
 
