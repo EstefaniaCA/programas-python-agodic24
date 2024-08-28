@@ -27,5 +27,16 @@
 - p17-convertir-temperaturas-v2
 - p18-paga-trabajador-v2
 
+## Tarea 1
+- p09-hipotenusa-triangulo
+- p10-tercer-angulo
+- p11-convertir-temp-tarea
+- p12-volumen-cilindro
+- p13-calculo-tiempo
+- p14-numero-suerte
+
+
+
+
 
 
