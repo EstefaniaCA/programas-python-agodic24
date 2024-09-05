@@ -6,10 +6,8 @@ def encontrar_mayor(a, b, c):
     mayor = max(a, b, c)
     print(f"El mayor es: {mayor}")
 
-# Solicitar los números al usuario
 num1 = int(input("Introduce el primer número: "))
 num2 = int(input("Introduce el segundo número: "))
 num3 = int(input("Introduce el tercer número: "))
 
-# Llamar a la función con los números ingresados
 encontrar_mayor(num1, num2, num3)

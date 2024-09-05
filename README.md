@@ -48,7 +48,7 @@
 - p25-dia-semana
 - p26-numeros-romanos
 - p27-calculos-notas
-- p28-acepta-estudiante-v3
+- p28-acepta-estudiante-v2
 
 ## Actividad 6
 - p29-numeros-1-100-v1

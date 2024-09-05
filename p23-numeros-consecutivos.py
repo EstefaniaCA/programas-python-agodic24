@@ -11,10 +11,8 @@ def son_consecutivos(a, b, c):
     else:
         print("Error: Los números no son consecutivos.")
 
-# Solicitar los números al usuario
 num1 = int(input("Introduce el primer número: "))
 num2 = int(input("Introduce el segundo número: "))
 num3 = int(input("Introduce el tercer número: "))
 
-# Llamar a la función con los números ingresados
 son_consecutivos(num1, num2, num3)
