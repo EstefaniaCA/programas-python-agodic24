@@ -50,6 +50,17 @@
 - p27-calculos-notas
 - p28-acepta-estudiante-v3
 
+## Actividad 6
+- p29-numeros-1-100-v1
+- p29-numeros-1-100-v2
+- p29-numeros-1-100-v3
+- p30-numeros-100-1-v1
+- p30-numeros-100-1-v2
+- p30-numeros-100-1-v3
+- p31-numeros-1-200-10  
+- p32-numeros-suma-100  
+- p33-conteo-numeros
+
 
 
 
