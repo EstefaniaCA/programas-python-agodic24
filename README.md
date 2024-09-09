@@ -61,6 +61,14 @@
 - p32-numeros-suma-100  
 - p33-conteo-numeros
 
+## Actividad 7
+
+- p34-tabla-conversion
+- p35-conjetura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
+- p38-adivina-numero
+
 
 
 
