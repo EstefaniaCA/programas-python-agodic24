@@ -69,6 +69,12 @@
 - p37-tabla-multiplicar-v2
 - p38-adivina-numero
 
-
+## Tarea 3
+- p39-impares-ascendente
+- p40-pares-descendente
+- p41-promedio-suma
+- p42-suma-200
+- p43-conversion-temperaturas
+- p44-numero-mayor
 
 
