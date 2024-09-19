@@ -79,7 +79,7 @@
 ## Primer examen parcial
 - p45–primer-examen-parcial
 
-## Actividad 7
+## Actividad 8
 - p46-numeros-1-100-V1 
 - p46-numeros-1-100-V2  
 - p46-numeros-1-100-V3  
