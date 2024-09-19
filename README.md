@@ -62,7 +62,6 @@
 - p33-conteo-numeros
 
 ## Actividad 7
-
 - p34-tabla-conversion
 - p35-conjetura-collatz
 - p36-tabla-multiplicar
@@ -79,3 +78,16 @@
 
 ## Primer examen parcial
 - p45–primer-examen-parcial
+
+## Actividad 7
+- p46-numeros-1-100-V1 
+- p46-numeros-1-100-V2  
+- p46-numeros-1-100-V3  
+- p47-numeros-100-1-V1  
+- p47-numeros-100-1-V2  
+- p47-numeros-100-1-V3  
+- p48-arriba-abajo
+- p49-suma-pares-impares
+- p50-suma-numeros
+- p51-multiplos-suma
+- p52-base-exponente
