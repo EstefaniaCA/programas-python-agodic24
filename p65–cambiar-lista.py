@@ -1,20 +1,22 @@
-#Cambiar los elementos de una lista de numeros
+#   Acceder a los elementos de la lista de numeros 
 
-import os; os.system("clear")
+import os;os.system('Clear')
 
-nums=[10, 9, 8.5, 6.5, 7.5, 6.2, 9.5]
+nums= [10, 20, 30, 40, 60, 70, 10, 20, 99]
 
-print('Cambiar o modificar los elementos de la lista')
+print('Acceder a los elementos de una lista')
+print('La lista     : ', nums )
+print('# elementos  : ', len(nums))
+print('Acceder con indices positivos 0 .. 8 ')
+print('Primero       : ', nums [0])
+print('Ultimo        : ', nums [8])
+print('Del 2 al 6    :', nums [2:6])
+print('Primero 3     :', nums [:3])
+print('Ultimos 3     :', nums [6:])
 
-print(type(nums))
-print('La lista : ', nums, len(nums))
-
-print('Modificar los elementos en las posiciones 0 y 1')
-nums [0] = 7
-nums [1] = 7
-print('Resulta en : ', nums)
-
-print('Modificar los elementos en las posiciones 2 y 5')
-
-nums[2:5] = [9.9, 9.0, 9.0]
-print('Resulta en : ', nums)
+print('\nAcceder con indices positivos -9 .. -1')
+print('Primero       : ', nums [-9])
+print('Ultimo        : ', nums [-1])
+print('Del 2 al 6    :', nums [-7:-2])
+print('Primero 3     :', nums [:-6])
+print('Ultimos 3     :', nums [-3:])

@@ -1,24 +1,16 @@
-# Remover elementos de una lista de numeros
+# Remover elementos de la lista
 
-import os; os.system("clear")
+n = [1, 3, 5, 7, 9, 11, 99, 15, 88, 19, 100]
+print(f"todos los números : {n}\n")
 
-nums = [1, 3, 5, 7, 9, 11, 99, 15, 88, 19, 100]
-print('Remover elementos de una lista de numeros')
+n.remove(99)
+print(f"remover primera ocurrencia : {n}\n")
 
-print('Los numeros : ', nums, len(nums))
+num=n.pop(8)
+print(f"remover y regresar elemento : {n} - {num}\n")
 
-print('Remover un numero (remueve la primera ocurrencia)')
-nums.remove(99)
-print('Queda : ', nums, len(nums))
+num=n.pop()
+print(f"remover el ultimo: : {n} - {num}\n")
 
-print('Remover un elemento en una posicion determinada')
-e = nums.pop(8)
-print('Queda : ', nums, len(nums), e)
-
-print('Remover el ultimo elemento de la lista')
-e = nums.pop()
-print('Queda : ', nums, len(nums), e)
-
-print('Remover todos los elementos de la lista')
-nums.clear()
-print('Queda : ', nums, len(nums))
+n.clear()
+print(f"remover todos : {n}\n")

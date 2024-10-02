@@ -1,25 +1,30 @@
-# Iterar por los elementos de una lista de numeros
-import os; os.system("clear")
+# Iterar los elemrntos de una lista de numeros 
 
-nums = [2,4,6,8,10,12,14,16]
-print('Iterando sobre los elementos de una lista')
+import os; os.system('Clear')
 
-print('Numeros : ', nums, len(nums))
+nums = [2, 4, 6, 8, 10, 12, 14, 16]
+print('Iternado sobre los elementos de una lista')
 
-print('\nIterar usando un ciclo for ')
+print('numeros : ', nums, len(nums))
+
+print('\nIterrar usando un ciclo for')
 for num in nums:
-    print(num, end=' ')
+    print(nums, end = ' ')
 
-print('\nIterar usando el subindice positivo usando un ciclo for')
+
+print('\nIterrar usando el subindice positivo usando un ciclo for')
 for i in range(len(nums)):
-    print(nums[i], end=' ')
+    print(nums[i], end= ' ')
+
 
 print('\nMostrar el arreglo donde a cada elemento se le suma 2')
 for num in nums:
-    print(num+2, end=' ')
-print('\nQueda : ', nums)
+    print(nums+2, end= ' ')
+print('\nQuedan : ', nums)
 
-print('Elevar al cuadradp cada elemento del arreglo')
+
+print('Elevar al cuadrado cada elemnto del arreglo')
 for i in range(len(nums)):
-    nums[i] = nums[i] ** 2
-print('Queda : ', nums)
+    nums [i] = nums[i] ** 2
+print('\nQuedan : ', nums)
+    
