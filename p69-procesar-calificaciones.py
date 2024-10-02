@@ -35,3 +35,4 @@ nums.sort(reverse=True)
 print('Ordenada              :', nums)
 nums.reverse()
 print('Invertida             :', nums)
+
