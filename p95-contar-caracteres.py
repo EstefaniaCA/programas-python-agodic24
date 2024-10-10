@@ -10,3 +10,17 @@
 #{ ‘a’: 1 , ‘b’:3, ........}
 #Ejemplo: Hola Mundo
 #{ ‘H’: 1, ‘o’:2, ‘l’:1, ‘a’:1, ‘ ‘:1, ‘M’:1, ‘u’:1, ‘n’:1, ‘d’:1}
+
+import os; os.system("cls")
+
+cadena = input("Escribe una cadena: ")
+
+contador = {}
+
+for caracter in cadena:
+    if caracter in contador:
+            contador[caracter] += 1
+    else:
+            contador[caracter] = 1
+            
+print(contador)
