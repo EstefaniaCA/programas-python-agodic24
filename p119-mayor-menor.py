@@ -1,0 +1,31 @@
+# Dada una lista de numeros introducida por el usuario, regresar el mayor y el menor
+
+def leerdatos():
+  datos= []
+  while True:
+     d= int (input ("Numero ?"))
+     if d==-1: break
+     datos.append(d)
+  return datos
+
+def mayor(lista):
+   m = lista (0)
+   for n in lista:
+      if n>m:
+         m=n
+   return m
+
+def menor(lista):
+   m = lista (0)
+   for n in lista:
+      if n<m:
+         m=n
+   return m
+
+# Programa principal
+import os;os.system("clear")
+nums = leerdatos()
+print (nums)    
+may= mayor (nums)  
+print ("el mayor es", may)    
+print ("el menor  es", men)    
