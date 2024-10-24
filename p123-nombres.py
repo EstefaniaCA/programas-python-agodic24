@@ -17,7 +17,7 @@ def entrada():
     
 # Programa principal 
 
-import os; os.system('clear') 
+import os; os.system("clear") 
 
 n1 = ['Juan', 'Pedro', 'Luis', 'Jose', 'Maria']
 # n2 = ['Rocio', 'Teresa', 'Karla']
