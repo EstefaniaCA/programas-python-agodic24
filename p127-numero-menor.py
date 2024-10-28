@@ -1,4 +1,4 @@
-# Dada una lista de numeros introducida por el usuario, regresar el mayor y el menor
+#Diseña un programa con una función que pida 3 números enteros y devuelva el menor de ellos, usando una función}
 
 def leerdatos():
     datos=[]
@@ -7,13 +7,6 @@ def leerdatos():
         if d==-1: break
         datos.append(d)
     return datos
-
-def mayor(lista):
-    m = lista[0]
-    for n in lista:
-        if n > m:
-            m = n
-    return m
 
 def menor(lista):
     m = lista[0]
@@ -26,7 +19,5 @@ def menor(lista):
 import os;os.system('clear')
 nums = leerdatos()
 print(nums)
-may = mayor(nums)
 men = menor(nums)
-print('El mayor res ', may)
 print('El menor res ', men)
