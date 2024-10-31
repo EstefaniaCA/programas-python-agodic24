@@ -209,6 +209,8 @@
 - p136-circulo
 - p137-rectangulo
 
+## Tarea 8
+- p138-articulo
 
 
 
