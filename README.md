@@ -215,3 +215,5 @@
 ## Activad 18
 - p139-ventas
 
+## Tercer examen parcial
+- p140-tercer-examen-parcial
