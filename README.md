@@ -212,5 +212,6 @@
 ## Tarea 8
 - p138-articulo
 
-
+## Activad 18
+- p139-ventas
 
